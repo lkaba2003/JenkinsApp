@@ -1,0 +1,40 @@
+2018-07-22 15:27:28,408 [Worker-10: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-07-22 15:28:37,371 [Worker-16: Creating project "jenkins"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.revature:jenkins:0.0.1-SNAPSHOT @ /Users/lkaba/Desktop/Jenkins/jenkins/pom.xml.
+2018-07-22 15:28:38,288 [Worker-16: Creating project "jenkins"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jenkins/src/main/java
+2018-07-22 15:28:38,290 [Worker-16: Creating project "jenkins"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jenkins/src/main/resources
+2018-07-22 15:28:38,291 [Worker-16: Creating project "jenkins"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jenkins/src/test/java
+2018-07-22 15:28:38,292 [Worker-16: Creating project "jenkins"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jenkins/src/test/resources
+2018-07-22 15:28:41,892 [Worker-18: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-22 15:28:41,930 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-22 15:28:41,933 [Worker-18: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-22 15:28:41,934 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-22 15:28:43,057 [Worker-12: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-22 15:28:43,060 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-22 15:28:43,062 [Worker-12: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-22 15:28:43,071 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-22 15:29:06,932 [Worker-18: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-22 15:29:06,934 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-22 15:29:06,936 [Worker-18: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-22 15:29:07,184 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-22 15:29:35,090 [Worker-17: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.revature:jenkins:0.0.1-SNAPSHOT @ /Users/lkaba/Desktop/Jenkins/jenkins/pom.xml.
+2018-07-22 15:29:35,098 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.servlet:javax.servlet-api:jar:4.0.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-07-22 15:29:35,121 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc7:jar:11.2.0 is missing, no dependency information available
+2018-07-22 15:29:35,635 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.servlet:javax.servlet-api:jar:4.0.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-07-22 15:29:35,650 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc7:jar:11.2.0 is missing, no dependency information available
+2018-07-22 15:29:37,058 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-22 15:29:37,060 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-22 15:29:37,063 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-22 15:29:37,097 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-22 15:29:37,097 [Worker-17: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of jenkins
+2018-07-22 15:29:37,098 [Worker-17: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for jenkins
+2018-07-22 15:29:37,105 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-22 15:29:56,731 [Worker-12: Rebuilding] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.servlet:javax.servlet-api:jar:4.0.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-07-22 15:29:56,746 [Worker-12: Rebuilding] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc7:jar:11.2.0 is missing, no dependency information available
+2018-07-22 15:29:56,753 [Worker-12: Rebuilding] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-22 15:29:56,755 [Worker-12: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-22 15:29:56,756 [Worker-12: Rebuilding] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-22 15:29:56,757 [Worker-12: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-22 15:30:10,194 [Worker-0: Building Project jenkins] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-22 15:30:10,196 [Worker-0: Building Project jenkins] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-22 15:30:10,198 [Worker-0: Building Project jenkins] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-22 15:30:10,199 [Worker-0: Building Project jenkins] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

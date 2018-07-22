@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/Users/lkaba/Desktop/Jenkins/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2677907466.index
+2379877887.index
+3473154430.index
+4006943616.index
+3172138810.index
+275123756.index
